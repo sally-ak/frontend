@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Salma (updated)",
+      "email": "salmanew@gmail.com",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Ayoub",
+      "email": "ayoub@gmail.com"
+    },
+    {
+      "id": "0eb7",
+      "name": "Ilham",
+      "email": "ilham@gmail.com"
+    },
+    {
+      "id": "d9a5",
+      "name": "Franz",
+      "email": "franz@gmail.com"
+    },
+    {
+      "id": "6691",
+      "name": "Fyodor",
+      "email": "fyodor@gmail.com"
+    }
+  ],
+  "_id": {
+    "incrementId": true
+  }
+}
